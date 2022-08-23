@@ -13,7 +13,7 @@ Notes and codes for the book "Statistical principles of Deep Learning" to be pub
 
 #### Loss Minimization Dynamics with LR (2D)
 
-<img src="./figures/SGD.gif" width="700">
+<img src="./figures/SGD.gif" width="650">
 
 #### Loss Minimization Dynamics with LR (3D)
 
