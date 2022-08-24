@@ -1,5 +1,5 @@
 ## Gradient Descent Visualization
-Training dynamics visualization with full-batch GD, SGD, AdaGrad, RMSprop, Momentum, and Adam. Other classical optimizers such as AdaDelta can be self-defined, placed and compared together.
+Simple scripts to visualize the training dynamics with full-batch GD, SGD, AdaGrad, RMSprop, Momentum, and Adam. Other classical optimizers such as AdaDelta can be self-defined, placed and compared together.
 
 #### Comparison: Full-Batch GD, AdaGrad, RMSprop, Momentum, and Adam
 
