@@ -1,7 +1,5 @@
 ## Gradient Descent Visualization
-Simple scripts using matplotlib and imageio to visualize the training dynamics with full-batch gradient descent, stochastic gradient descent, Adaptive Gradient Descent, Root Mean Square Propagation, Momentum, and adaptive moment estimation. 
-
-Other classical optimizers can be self-defined, added and compared together.
+Training dynamics visualization with full-batch GD, SGD, AdaGrad, RMSprop, Momentum, and Adam. Other classical optimizers such as AdaDelta can be self-defined, placed and compared together.
 
 #### Comparison: Full-Batch GD, AdaGrad, RMSprop, Momentum, and Adam
 
